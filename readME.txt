@@ -1,4 +1,4 @@
-Extension for OPERA browser. Creates an action bar menu with icon.png icon.
+Extension for Chrome(,Opera, etc.) browser. Creates an action bar menu with icon.png icon.
 Function: opens a new page at www.iit.bme.hu and auto selects "MSc" for "Képzési szint" and "Villamosmérnök" for "Szak".
 
 icon.png: discussed above.
